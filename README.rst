@@ -41,7 +41,7 @@ Install from source
 
 If you plan to use the package as a developer, clone the Git repository::
 
-    git clone  https://github.com/...
+    git clone  https://github.com/nPironio/maipc.git
 
 Then you can simply install the package in development mode::
 
@@ -97,5 +97,5 @@ Licence
 References
 ==========
 
-.. [1] nuestro paper
-.. [2] madmom   
+.. [1]
+.. [2]
