@@ -60,8 +60,7 @@ Each metric is a function with signature ::
 
 	def metric_function(audio_path, downbeat_model=True)
 
-Where ``audio_path`` can be ei
-ther a string representing an audio file path or a list of paths, and ``downbeat_model`` indicates wether to use the downbeat or beat tracking model implemented in [2]_.
+Where ``audio_path`` can be either a string representing an audio file path or a list of paths, and ``downbeat_model`` indicates wether to use the downbeat or beat tracking model implemented in [2]_.
 
 Using the package in a Python script
 ------------------------------------
