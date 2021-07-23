@@ -1,9 +1,9 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 from distutils.extension import Extension
 from os import path
 import glob
 
-from Cython.Build import cythonize, build_ext
+from Cython.Build import cythonize
 import numpy as np
 
 include_dirs = [np.get_include()]
@@ -36,5 +36,5 @@ setup(name='maipc',
       scripts=scripts,
       description='Pulse clarity metrics based on the madmom package',
       long_description=long_description,
-      author='Nico Pironio',
+      author='Nicolás Pironio',
       )

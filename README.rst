@@ -3,7 +3,7 @@ maipc
 ======
 
 Maipc (Madmom applied in [the field of] pulse clarity) is a Python library developed to implement the pulse clarity metrics
-presented in [1]_, based on the madmom [2]_ package.
+presented in [1]_, based on the `madmom <https://github.com/CPJKU/madmom>`_ [2]_ package.
 
 It provides the implementation of all the metrics proposed to be used in python 
 programs. It also comes with a script that enables the user to run any 
@@ -98,4 +98,4 @@ References
 ==========
 
 .. [1]
-.. [2]
+.. [2] "madmom: a new Python Audio and Music Signal Processing Library", Bock, Sebastian and Korzeniowski, Filip and Schluter, Jan and Krebs, Florian and Widmer, Gerhard. Proceedings of the 24th ACM International Conference on Multimedia, October 2016.
