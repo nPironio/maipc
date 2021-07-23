@@ -2,8 +2,7 @@
 # encoding: utf-8
 
 """
-	Docstring general del proyecto: "modulo que tiene las 
-	metricas generadas en Pironio et. al bla"
+	CLI tool for the maipc package
 """
 
 import fire
