@@ -96,5 +96,5 @@ Licence
 References
 ==========
 
-.. [1]
+.. [1] "Pulse clarity metrics developed from a deep learning beat tracking model", Pironio, Nicolás and Miguel, Martín and Slezak, Diego Fernández. Proceedings of the 22nd International Society for Music Information Retrieval Conference, November 2021.
 .. [2] "madmom: a new Python Audio and Music Signal Processing Library", Bock, Sebastian and Korzeniowski, Filip and Schluter, Jan and Krebs, Florian and Widmer, Gerhard. Proceedings of the 24th ACM International Conference on Multimedia, October 2016.
