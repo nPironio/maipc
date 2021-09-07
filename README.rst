@@ -29,12 +29,6 @@ installed, as well as the following packages:
 Please refer to the `requirements.txt <requirements.txt>`_ file for the minimum
 required versions and make sure that these modules are up to date.
 
-Install from package
---------------------
-The package can be installed via ``maipc`` from the `PyPI (Python Package Index)
-<https://pypi.python.org/pypi>`_::
-
-	pip install maipc
 
 Install from source
 -------------------
